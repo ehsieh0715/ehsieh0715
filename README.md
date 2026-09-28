@@ -8,6 +8,16 @@ I enjoy working across the data lifecycle, from **transforming and modelling dat
 
 ## 🚀 Featured Projects
 
+### 🛍️ [Retail Sales & Inventory Analytics with Microsoft Fabric](https://github.com/ehsieh0715/retail-fabric-analytics)
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Engineering-5B5FC7)
+![Power BI](https://img.shields.io/badge/Power%20BI-Direct%20Lake%20%7C%20DAX-F2C811?logo=powerbi&logoColor=000000)
+![PySpark](https://img.shields.io/badge/PySpark-Medallion%20Transformations-E25A1C?logo=apachespark&logoColor=white)
+
+End-to-end retail analytics solution built with **Microsoft Fabric, OneLake, PySpark, Delta Lake, Direct Lake, DAX, and Power BI**.
+
+Implements **parameterised ingestion pipelines, Bronze–Silver–Gold transformations, data-quality validation, a two-fact star schema, reusable semantic measures, and a four-page management dashboard** for sales, profitability, inventory, and store performance.
+
 ### ⚡ [Energy Analytics Engineering with dbt](https://github.com/ehsieh0715/energy-analytics-dbt)
 
 ![dbt](https://img.shields.io/badge/dbt-Dimensional%20Modelling%20%7C%20Testing%20%7C%20Lineage-FF694B?logo=dbt&logoColor=white)
